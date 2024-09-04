@@ -1,0 +1,10 @@
+{
+    "diagnostics.globals": [
+        "vim",
+        "dependencies",
+        "extensions"
+    ],
+    "diagnostics.disable": [
+        "different-requires"
+    ]
+}
