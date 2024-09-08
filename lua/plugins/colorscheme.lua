@@ -1,6 +1,6 @@
 return {
     "scottmckendry/cyberdream.nvim",
-    priority = 10000,
+    priority = 1000,
     init = function()
 	if vim.g.neovide then
 	require("cyberdream").setup({
